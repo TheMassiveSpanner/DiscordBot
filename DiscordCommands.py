@@ -28,4 +28,4 @@ async def addRoulette(ctx, *args):
     print(arguments)
     writeToFile(path, arguments)
 
-bot.run('MTAxOTE3MzM4NjUwNjc0MzgyOA.Gy8JsA.ZVa9ZgT6B40p32ZPBC_cty0bXYjGArMPSCYJ9k')
+bot.run('token')
